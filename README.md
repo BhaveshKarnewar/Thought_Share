@@ -70,7 +70,8 @@ Thought Share is a fully functional blogging web application built using Python 
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage](snapshots
+/homepage.png)
 *Homepage displaying all blog posts.*
 
 ![Create Post](screenshots/create-post.png)
