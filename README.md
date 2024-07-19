@@ -79,4 +79,5 @@ Thought Share is a fully functional blogging web application built using Python 
 ---
 
 *Developed by Bhavesh*
+<br/>
 Email: bhaveshkarnewar2@gmail.com
