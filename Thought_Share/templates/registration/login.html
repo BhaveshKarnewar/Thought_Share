@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+<br />
+
+{% block title %} Login Required{% endblock %}
+
+<br />
+
+{% block content %}
+<h3>Login</h3>
+<div class="p-4"></div>
+<form method="post">
+  {% csrf_token %} {{form.as_p}}
+  <button class="btn btn-primary">Login</button>
+</form>
+
+<div class="p-2"></div>
+
+<h4>
+  Dont have an Account? Please
+  <a
+    href="
+  {% url 'register' %}"
+    >Register</a
+  >
+</h4>
+
+{% endblock %}
