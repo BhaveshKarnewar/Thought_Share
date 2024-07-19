@@ -71,31 +71,10 @@ Thought Share is a fully functional blogging web application built using Python 
 ## Screenshots
 
 ![Homepage](snapshots/homepage.png)
-*Homepage displaying all blog posts.*
+*Homepage displaying blog posts.*
 
-![Create Post](screenshots/create-post.png)
-*Form for creating a new blog post.*
-
-![Post Detail](screenshots/post-detail.png)
-*Detailed view of a single blog post.*
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- **Django Documentation**: For comprehensive guides and resources.
-- **Tailwind CSS**: For the amazing utility-first CSS framework.
-- **Open Source Community**: For constant support and inspiration.
+![Login](snapshots/login.png)
+*Registration, login and logout functionality for users*
 
 ---
 
